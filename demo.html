@@ -92,7 +92,7 @@
 
 
     <section class="section san-francisco">
-      <div class="absolute" id="background" width="500" height="600">
+      <div class="absolute" id="background">
         <div class="container">
           <div class="row">
             <div class="col-md-offset-1 col-md-11">
@@ -102,7 +102,8 @@
 
                   var img = document.createElement("img");
                   img.src = "Kayvon_Heravi_copy.png";
-              
+                  img.height = 150;
+                  img.width = 150;
                   var src = document.getElementById("background");
                   src.appendChild(img);
                   //block.setAttribute("style", "text-align:center");
