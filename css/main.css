@@ -298,6 +298,12 @@ span.brown {
 span.yellow {
   color: rgb(196, 196, 31);
 }
+span.grey {
+  color: grey;
+}
+span.lavender {
+  color: lavender;
+}
 
 /* -------------------------------------------------------------------------- */
 /* =====================options-menu and documentation======================= */
