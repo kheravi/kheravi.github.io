@@ -289,6 +289,12 @@ span.white {
 span.orange {
   color: orange;
 }
+span.pink {
+  color :pink;
+}
+span.brown {
+  color :brown;
+}
 
 /* -------------------------------------------------------------------------- */
 /* =====================options-menu and documentation======================= */
