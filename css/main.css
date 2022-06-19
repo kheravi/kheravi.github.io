@@ -307,6 +307,12 @@ span.lavender {
 span.navy {
   color: rgb(21, 21, 216);
 }
+span.crimson {
+  color: crimson;
+}
+span.powder {
+  color: powderblue;
+}
 
 /* -------------------------------------------------------------------------- */
 /* =====================options-menu and documentation======================= */
